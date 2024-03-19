@@ -1,4 +1,4 @@
 Point of Sales System - COMPSCI 1102
 
-A terminal based POS system using objected oriented programming principles. 
+A terminal-based POS system designed for restaurants using object oriented programming principles. 
 
